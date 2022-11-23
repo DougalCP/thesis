@@ -1,4 +1,4 @@
-#Directory "test_dataset" contains the fastq files of interest.
+Directory "test_dataset" contains the fastq files of interest.
 
 1) The"fastqc_files.py" python script performs quality control on the FASTQ files in directory 
 "test_data" using the FastQC program putting the output in another subdirectory called "fastqc_out".
